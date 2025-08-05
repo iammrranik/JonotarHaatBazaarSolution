@@ -1,0 +1,86 @@
+-- Create table: role
+CREATE TABLE role (
+    id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+    role_name VARCHAR(20) NOT NULL
+);
+
+-- Create table: users
+CREATE TABLE users (
+    id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+    full_name VARCHAR(32) NOT NULL,
+    email VARCHAR(32) NOT NULL UNIQUE,
+    username VARCHAR(20) NOT NULL UNIQUE,
+    role_id INT NOT NULL,
+    mobile VARCHAR(15) NOT NULL,
+    password VARCHAR(255) NOT NULL,
+    nid VARCHAR(19) NOT NULL UNIQUE,
+    address VARCHAR(50) NOT NULL,
+    created_date DATE,
+    is_active BIT NOT NULL,
+    FOREIGN KEY (role_id) REFERENCES role(id)
+);
+
+-- Create table: product
+CREATE TABLE product (
+    id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+    name VARCHAR(50) NOT NULL,
+    quantity INT NOT NULL,
+    manufactureDate DATE NOT NULL,
+    expiryDate DATE NOT NULL,
+    categoryName VARCHAR(50) NOT NULL,
+    unit_price DECIMAL(10, 2) NOT NULL,
+    created_date DATE,
+    is_active BIT NOT NULL
+);
+
+-- Create table: customer
+CREATE TABLE customer (
+    id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+    name VARCHAR(50) NOT NULL,
+    mobile VARCHAR(20) NOT NULL
+);
+
+-- Create table: invoice
+CREATE TABLE invoice (
+    id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+    customerId INT NOT NULL,
+    invoiceDate DATE NOT NULL DEFAULT GETDATE(),
+    total_amount DECIMAL(10,2),
+    discount_amount DECIMAL(10,2),
+    final_amount DECIMAL(10,2),
+    created_by INT,
+    created_date DATE,
+    FOREIGN KEY (customerId) REFERENCES customer(id)
+);
+
+-- Create table: invoice_items
+CREATE TABLE invoice_items (
+    id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+    invoice_id INT NOT NULL,
+    product_id INT NOT NULL,
+    quantity INT NOT NULL,
+    unit_price DECIMAL(10, 2) NOT NULL,
+    total_price AS (quantity * unit_price),
+    FOREIGN KEY (invoice_id) REFERENCES invoice(id),
+    FOREIGN KEY (product_id) REFERENCES product(id)
+);
+
+--Insert Role table values
+INSERT INTO role (role_name) VALUES ('Admin');
+INSERT INTO role (role_name) VALUES ('Employee');
+
+--Insert users table values
+INSERT INTO users (
+    full_name, email, username, role_id, mobile, password, nid, address, created_date, is_active
+) VALUES (
+    'Admin User',
+    'admin@gmail.com',
+    'admin',
+    1,  -- Role ID for Admin
+    '0123456789',
+    'admin123',  
+    '1234567890',
+    'Dhaka Bangladesh',
+    GETDATE(),
+    1  -- Active
+);

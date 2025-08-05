@@ -1,0 +1,176 @@
+C:\Users\unknown\source\repos\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.exe.config
+C:\Users\unknown\source\repos\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.exe
+C:\Users\unknown\source\repos\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.pdb
+C:\Users\unknown\source\repos\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.AssemblyReference.cache
+C:\Users\unknown\source\repos\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.FormLogin.resources
+C:\Users\unknown\source\repos\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.Properties.Resources.resources
+C:\Users\unknown\source\repos\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.GenerateResource.cache
+C:\Users\unknown\source\repos\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.CoreCompileInputs.cache
+C:\Users\unknown\source\repos\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.exe
+C:\Users\unknown\source\repos\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.pdb
+C:\Users\unknown\source\repos\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.exe.config
+C:\Users\unknown\source\repos\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAdmin.resources
+C:\Users\unknown\source\repos\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormEmployee.resources
+C:\Users\unknown\source\repos\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.UserAdmin.resources
+C:\Users\unknown\source\repos\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.UserEmployee.resources
+C:\Users\unknown\source\repos\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.Test.resources
+D:\JonotarHaatBazaarSolution 1\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.exe.config
+D:\JonotarHaatBazaarSolution 1\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.exe
+D:\JonotarHaatBazaarSolution 1\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.pdb
+D:\JonotarHaatBazaarSolution 1\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.AssemblyReference.cache
+D:\JonotarHaatBazaarSolution 1\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.exe.config
+D:\JonotarHaatBazaarSolution 1\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAdmin.resources
+D:\JonotarHaatBazaarSolution 1\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormEmployee.resources
+D:\JonotarHaatBazaarSolution 1\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.FormLogin.resources
+D:\JonotarHaatBazaarSolution 1\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.UserAdmin.resources
+D:\JonotarHaatBazaarSolution 1\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.UserEmployee.resources
+D:\JonotarHaatBazaarSolution 1\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.Properties.Resources.resources
+D:\JonotarHaatBazaarSolution 1\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.GenerateResource.cache
+D:\JonotarHaatBazaarSolution 1\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.CoreCompileInputs.cache
+D:\JonotarHaatBazaarSolution 1\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.exe
+D:\JonotarHaatBazaarSolution 1\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.pdb
+D:\JonotarHaatBazaarSolution 1\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAddUser.resources
+D:\JonotarHaatBazaarSolution 1\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormEditUser.resources
+C:\Users\unknown\Downloads\JonotarHaatBazaarSolution\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.exe.config
+C:\Users\unknown\Downloads\JonotarHaatBazaarSolution\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.exe
+C:\Users\unknown\Downloads\JonotarHaatBazaarSolution\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.pdb
+C:\Users\unknown\Downloads\JonotarHaatBazaarSolution\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.AssemblyReference.cache
+C:\Users\unknown\Downloads\JonotarHaatBazaarSolution\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.exe.config
+C:\Users\unknown\Downloads\JonotarHaatBazaarSolution\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAdmin.resources
+C:\Users\unknown\Downloads\JonotarHaatBazaarSolution\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormEmployee.resources
+C:\Users\unknown\Downloads\JonotarHaatBazaarSolution\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.FormLogin.resources
+C:\Users\unknown\Downloads\JonotarHaatBazaarSolution\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAddUser.resources
+C:\Users\unknown\Downloads\JonotarHaatBazaarSolution\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormEditUser.resources
+C:\Users\unknown\Downloads\JonotarHaatBazaarSolution\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.UserAdmin.resources
+C:\Users\unknown\Downloads\JonotarHaatBazaarSolution\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.UserEmployee.resources
+C:\Users\unknown\Downloads\JonotarHaatBazaarSolution\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.Properties.Resources.resources
+C:\Users\unknown\Downloads\JonotarHaatBazaarSolution\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.GenerateResource.cache
+C:\Users\unknown\Downloads\JonotarHaatBazaarSolution\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.CoreCompileInputs.cache
+C:\Users\unknown\Downloads\JonotarHaatBazaarSolution\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.exe
+C:\Users\unknown\Downloads\JonotarHaatBazaarSolution\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.pdb
+C:\Users\unknown\Desktop\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.exe.config
+C:\Users\unknown\Desktop\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.exe
+C:\Users\unknown\Desktop\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.pdb
+C:\Users\unknown\Desktop\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.AssemblyReference.cache
+C:\Users\unknown\Desktop\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.exe.config
+C:\Users\unknown\Desktop\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAddProduct.resources
+C:\Users\unknown\Desktop\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAdmin.resources
+C:\Users\unknown\Desktop\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormEmployee.resources
+C:\Users\unknown\Desktop\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.FormLogin.resources
+C:\Users\unknown\Desktop\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAddUser.resources
+C:\Users\unknown\Desktop\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormEditUser.resources
+C:\Users\unknown\Desktop\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.UserControlAdmin.resources
+C:\Users\unknown\Desktop\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.UserControlProduct.resources
+C:\Users\unknown\Desktop\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.UserEmployee.resources
+C:\Users\unknown\Desktop\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.Properties.Resources.resources
+C:\Users\unknown\Desktop\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.GenerateResource.cache
+C:\Users\unknown\Desktop\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.CoreCompileInputs.cache
+C:\Users\unknown\Desktop\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.exe
+C:\Users\unknown\Desktop\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.pdb
+C:\Users\Rajin\Downloads\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.exe.config
+C:\Users\Rajin\Downloads\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.exe
+C:\Users\Rajin\Downloads\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.pdb
+C:\Users\Rajin\Downloads\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.AssemblyReference.cache
+C:\Users\Rajin\Downloads\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.exe.config
+C:\Users\Rajin\Downloads\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAddProduct.resources
+C:\Users\Rajin\Downloads\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAdmin.resources
+C:\Users\Rajin\Downloads\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormEmployee.resources
+C:\Users\Rajin\Downloads\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.FormLogin.resources
+C:\Users\Rajin\Downloads\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAddUser.resources
+C:\Users\Rajin\Downloads\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormEditUser.resources
+C:\Users\Rajin\Downloads\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.UserControlAdmin.resources
+C:\Users\Rajin\Downloads\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.UserControlProduct.resources
+C:\Users\Rajin\Downloads\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.UserEmployee.resources
+C:\Users\Rajin\Downloads\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.Properties.Resources.resources
+C:\Users\Rajin\Downloads\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.GenerateResource.cache
+C:\Users\Rajin\Downloads\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.CoreCompileInputs.cache
+C:\Users\Rajin\Downloads\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.exe
+C:\Users\Rajin\Downloads\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.pdb
+D:\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.exe.config
+D:\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.exe
+D:\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.pdb
+D:\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.AssemblyReference.cache
+D:\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.exe.config
+D:\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAddProduct.resources
+D:\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAdmin.resources
+D:\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormEmployee.resources
+D:\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.FormLogin.resources
+D:\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAddUser.resources
+D:\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormEditUser.resources
+D:\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.UserControlAdmin.resources
+D:\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.UserControlProduct.resources
+D:\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.UserEmployee.resources
+D:\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.Properties.Resources.resources
+D:\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.GenerateResource.cache
+D:\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.CoreCompileInputs.cache
+D:\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.exe
+D:\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.pdb
+D:\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAddSale.resources
+D:\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormInvoicePrint.resources
+D:\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormSalesReport.resources
+D:\JonotarHaatBazaarSolution 3\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAddCustomer.resources
+C:\Users\unknown\Desktop\New folder (3)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.exe.config
+C:\Users\unknown\Desktop\New folder (3)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.exe
+C:\Users\unknown\Desktop\New folder (3)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.pdb
+C:\Users\unknown\Desktop\New folder (3)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.AssemblyReference.cache
+C:\Users\unknown\Desktop\New folder (3)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.exe.config
+C:\Users\unknown\Desktop\New folder (3)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAddCustomer.resources
+C:\Users\unknown\Desktop\New folder (3)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAddProduct.resources
+C:\Users\unknown\Desktop\New folder (3)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAddSale.resources
+C:\Users\unknown\Desktop\New folder (3)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAdmin.resources
+C:\Users\unknown\Desktop\New folder (3)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormEmployee.resources
+C:\Users\unknown\Desktop\New folder (3)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormInvoicePrint.resources
+C:\Users\unknown\Desktop\New folder (3)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.FormLogin.resources
+C:\Users\unknown\Desktop\New folder (3)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAddUser.resources
+C:\Users\unknown\Desktop\New folder (3)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormEditUser.resources
+C:\Users\unknown\Desktop\New folder (3)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormSalesReport.resources
+C:\Users\unknown\Desktop\New folder (3)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.UserControlAdmin.resources
+C:\Users\unknown\Desktop\New folder (3)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.UserControlProduct.resources
+C:\Users\unknown\Desktop\New folder (3)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.Properties.Resources.resources
+C:\Users\unknown\Desktop\New folder (3)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.GenerateResource.cache
+C:\Users\unknown\Desktop\New folder (3)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.CoreCompileInputs.cache
+C:\Users\unknown\Desktop\New folder (3)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.exe
+C:\Users\unknown\Desktop\New folder (3)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.pdb
+D:\JonotarHaatBazaarSolution 6\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.exe.config
+D:\JonotarHaatBazaarSolution 6\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.exe
+D:\JonotarHaatBazaarSolution 6\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.pdb
+D:\JonotarHaatBazaarSolution 6\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.AssemblyReference.cache
+D:\JonotarHaatBazaarSolution 6\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.exe.config
+D:\JonotarHaatBazaarSolution 6\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAddCustomer.resources
+D:\JonotarHaatBazaarSolution 6\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAddProduct.resources
+D:\JonotarHaatBazaarSolution 6\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAddSale.resources
+D:\JonotarHaatBazaarSolution 6\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAdmin.resources
+D:\JonotarHaatBazaarSolution 6\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormEmployee.resources
+D:\JonotarHaatBazaarSolution 6\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormInvoicePrint.resources
+D:\JonotarHaatBazaarSolution 6\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.FormLogin.resources
+D:\JonotarHaatBazaarSolution 6\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAddUser.resources
+D:\JonotarHaatBazaarSolution 6\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormEditUser.resources
+D:\JonotarHaatBazaarSolution 6\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormSalesReport.resources
+D:\JonotarHaatBazaarSolution 6\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.UserControlAdmin.resources
+D:\JonotarHaatBazaarSolution 6\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.UserControlProduct.resources
+D:\JonotarHaatBazaarSolution 6\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.Properties.Resources.resources
+D:\JonotarHaatBazaarSolution 6\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.GenerateResource.cache
+D:\JonotarHaatBazaarSolution 6\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.CoreCompileInputs.cache
+D:\JonotarHaatBazaarSolution 6\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.exe
+D:\JonotarHaatBazaarSolution 6\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.pdb
+C:\Users\madma\OneDrive\Desktop\JonotarHaatBazaarSolution-3 (1)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.exe.config
+C:\Users\madma\OneDrive\Desktop\JonotarHaatBazaarSolution-3 (1)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.exe
+C:\Users\madma\OneDrive\Desktop\JonotarHaatBazaarSolution-3 (1)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\bin\Debug\JonotarHaatBazaarProject.pdb
+C:\Users\madma\OneDrive\Desktop\JonotarHaatBazaarSolution-3 (1)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.AssemblyReference.cache
+C:\Users\madma\OneDrive\Desktop\JonotarHaatBazaarSolution-3 (1)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAddCustomer.resources
+C:\Users\madma\OneDrive\Desktop\JonotarHaatBazaarSolution-3 (1)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAddProduct.resources
+C:\Users\madma\OneDrive\Desktop\JonotarHaatBazaarSolution-3 (1)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAddSale.resources
+C:\Users\madma\OneDrive\Desktop\JonotarHaatBazaarSolution-3 (1)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAdmin.resources
+C:\Users\madma\OneDrive\Desktop\JonotarHaatBazaarSolution-3 (1)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormEmployee.resources
+C:\Users\madma\OneDrive\Desktop\JonotarHaatBazaarSolution-3 (1)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormInvoicePrint.resources
+C:\Users\madma\OneDrive\Desktop\JonotarHaatBazaarSolution-3 (1)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.FormLogin.resources
+C:\Users\madma\OneDrive\Desktop\JonotarHaatBazaarSolution-3 (1)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormAddUser.resources
+C:\Users\madma\OneDrive\Desktop\JonotarHaatBazaarSolution-3 (1)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormEditUser.resources
+C:\Users\madma\OneDrive\Desktop\JonotarHaatBazaarSolution-3 (1)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.FormSalesReport.resources
+C:\Users\madma\OneDrive\Desktop\JonotarHaatBazaarSolution-3 (1)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.UserControlAdmin.resources
+C:\Users\madma\OneDrive\Desktop\JonotarHaatBazaarSolution-3 (1)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.GUI.UserControlProduct.resources
+C:\Users\madma\OneDrive\Desktop\JonotarHaatBazaarSolution-3 (1)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.Properties.Resources.resources
+C:\Users\madma\OneDrive\Desktop\JonotarHaatBazaarSolution-3 (1)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.GenerateResource.cache
+C:\Users\madma\OneDrive\Desktop\JonotarHaatBazaarSolution-3 (1)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.csproj.CoreCompileInputs.cache
+C:\Users\madma\OneDrive\Desktop\JonotarHaatBazaarSolution-3 (1)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.exe
+C:\Users\madma\OneDrive\Desktop\JonotarHaatBazaarSolution-3 (1)\JonotarHaatBazaarSolution\JonotarHaatBazaarProject\obj\Debug\JonotarHaatBazaarProject.pdb
