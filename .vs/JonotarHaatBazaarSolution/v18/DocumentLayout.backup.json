@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "F:\\Github Projects\\JonotarHaatBazaarSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9F902DA1-6B3A-4867-A4D5-0A99E4D1B333}|JonotarHaatBazaarProject\\JonotarHaatBazaarProject.csproj|F:\\Github Projects\\JonotarHaatBazaarSolution\\jonotarhaatbazaarproject\\db\\dbaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F902DA1-6B3A-4867-A4D5-0A99E4D1B333}|JonotarHaatBazaarProject\\JonotarHaatBazaarProject.csproj|solutionrelative:jonotarhaatbazaarproject\\db\\dbaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9F902DA1-6B3A-4867-A4D5-0A99E4D1B333}|JonotarHaatBazaarProject\\JonotarHaatBazaarProject.csproj|f:\\github projects\\jonotarhaatbazaarsolution\\jonotarhaatbazaarproject\\gui\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F902DA1-6B3A-4867-A4D5-0A99E4D1B333}|JonotarHaatBazaarProject\\JonotarHaatBazaarProject.csproj|solutionrelative:jonotarhaatbazaarproject\\gui\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F902DA1-6B3A-4867-A4D5-0A99E4D1B333}|JonotarHaatBazaarProject\\JonotarHaatBazaarProject.csproj|F:\\Github Projects\\JonotarHaatBazaarSolution\\jonotarhaatbazaarproject\\gui\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9F902DA1-6B3A-4867-A4D5-0A99E4D1B333}|JonotarHaatBazaarProject\\JonotarHaatBazaarProject.csproj|solutionrelative:jonotarhaatbazaarproject\\gui\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F902DA1-6B3A-4867-A4D5-0A99E4D1B333}|JonotarHaatBazaarProject\\JonotarHaatBazaarProject.csproj|F:\\Github Projects\\JonotarHaatBazaarSolution\\jonotarhaatbazaarproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F902DA1-6B3A-4867-A4D5-0A99E4D1B333}|JonotarHaatBazaarProject\\JonotarHaatBazaarProject.csproj|solutionrelative:jonotarhaatbazaarproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F902DA1-6B3A-4867-A4D5-0A99E4D1B333}|JonotarHaatBazaarProject\\JonotarHaatBazaarProject.csproj|F:\\Github Projects\\JonotarHaatBazaarSolution\\jonotarhaatbazaarproject\\gui\\usercontroladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9F902DA1-6B3A-4867-A4D5-0A99E4D1B333}|JonotarHaatBazaarProject\\JonotarHaatBazaarProject.csproj|solutionrelative:jonotarhaatbazaarproject\\gui\\usercontroladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F902DA1-6B3A-4867-A4D5-0A99E4D1B333}|JonotarHaatBazaarProject\\JonotarHaatBazaarProject.csproj|F:\\Github Projects\\JonotarHaatBazaarSolution\\jonotarhaatbazaarproject\\gui\\formsalesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -31,12 +23,20 @@
       "RelativeMoniker": "D:0:0:{9F902DA1-6B3A-4867-A4D5-0A99E4D1B333}|JonotarHaatBazaarProject\\JonotarHaatBazaarProject.csproj|solutionrelative:jonotarhaatbazaarproject\\gui\\formemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F902DA1-6B3A-4867-A4D5-0A99E4D1B333}|JonotarHaatBazaarProject\\JonotarHaatBazaarProject.csproj|F:\\Github Projects\\JonotarHaatBazaarSolution\\jonotarhaatbazaarproject\\gui\\formaddsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F902DA1-6B3A-4867-A4D5-0A99E4D1B333}|JonotarHaatBazaarProject\\JonotarHaatBazaarProject.csproj|solutionrelative:jonotarhaatbazaarproject\\gui\\formaddsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F902DA1-6B3A-4867-A4D5-0A99E4D1B333}|JonotarHaatBazaarProject\\JonotarHaatBazaarProject.csproj|F:\\Github Projects\\JonotarHaatBazaarSolution\\jonotarhaatbazaarproject\\gui\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F902DA1-6B3A-4867-A4D5-0A99E4D1B333}|JonotarHaatBazaarProject\\JonotarHaatBazaarProject.csproj|solutionrelative:jonotarhaatbazaarproject\\gui\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F902DA1-6B3A-4867-A4D5-0A99E4D1B333}|JonotarHaatBazaarProject\\JonotarHaatBazaarProject.csproj|F:\\Github Projects\\JonotarHaatBazaarSolution\\jonotarhaatbazaarproject\\db\\dbaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F902DA1-6B3A-4867-A4D5-0A99E4D1B333}|JonotarHaatBazaarProject\\JonotarHaatBazaarProject.csproj|solutionrelative:jonotarhaatbazaarproject\\db\\dbaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F902DA1-6B3A-4867-A4D5-0A99E4D1B333}|JonotarHaatBazaarProject\\JonotarHaatBazaarProject.csproj|F:\\Github Projects\\JonotarHaatBazaarSolution\\jonotarhaatbazaarproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F902DA1-6B3A-4867-A4D5-0A99E4D1B333}|JonotarHaatBazaarProject\\JonotarHaatBazaarProject.csproj|solutionrelative:jonotarhaatbazaarproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F902DA1-6B3A-4867-A4D5-0A99E4D1B333}|JonotarHaatBazaarProject\\JonotarHaatBazaarProject.csproj|F:\\Github Projects\\JonotarHaatBazaarSolution\\jonotarhaatbazaarproject\\gui\\usercontroladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F902DA1-6B3A-4867-A4D5-0A99E4D1B333}|JonotarHaatBazaarProject\\JonotarHaatBazaarProject.csproj|solutionrelative:jonotarhaatbazaarproject\\gui\\usercontroladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F902DA1-6B3A-4867-A4D5-0A99E4D1B333}|JonotarHaatBazaarProject\\JonotarHaatBazaarProject.csproj|F:\\Github Projects\\JonotarHaatBazaarSolution\\jonotarhaatbazaarproject\\gui\\formaddsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F902DA1-6B3A-4867-A4D5-0A99E4D1B333}|JonotarHaatBazaarProject\\JonotarHaatBazaarProject.csproj|solutionrelative:jonotarhaatbazaarproject\\gui\\formaddsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F902DA1-6B3A-4867-A4D5-0A99E4D1B333}|JonotarHaatBazaarProject\\JonotarHaatBazaarProject.csproj|F:\\Github Projects\\JonotarHaatBazaarSolution\\jonotarhaatbazaarproject\\gui\\usercontroladmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,7 +90,24 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "F:\\Github Projects\\JonotarHaatBazaarSolution\\JonotarHaatBazaarProject\\GUI\\FormLogin.cs",
+              "RelativeDocumentMoniker": "JonotarHaatBazaarProject\\GUI\\FormLogin.cs",
+              "ToolTip": "F:\\Github Projects\\JonotarHaatBazaarSolution\\JonotarHaatBazaarProject\\GUI\\FormLogin.cs",
+              "RelativeToolTip": "JonotarHaatBazaarProject\\GUI\\FormLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:12:38.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Github Projects\\JonotarHaatBazaarSolution\\JonotarHaatBazaarProject\\Program.cs",
               "RelativeDocumentMoniker": "JonotarHaatBazaarProject\\Program.cs",
@@ -98,44 +115,48 @@
               "RelativeToolTip": "JonotarHaatBazaarProject\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T03:57:13.637Z"
+              "WhenOpened": "2025-08-05T03:57:13.637Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "FormSalesReport.cs [Design]",
               "DocumentMoniker": "F:\\Github Projects\\JonotarHaatBazaarSolution\\JonotarHaatBazaarProject\\GUI\\FormSalesReport.cs",
               "RelativeDocumentMoniker": "JonotarHaatBazaarProject\\GUI\\FormSalesReport.cs",
               "ToolTip": "F:\\Github Projects\\JonotarHaatBazaarSolution\\JonotarHaatBazaarProject\\GUI\\FormSalesReport.cs [Design]",
               "RelativeToolTip": "JonotarHaatBazaarProject\\GUI\\FormSalesReport.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T12:43:49.97Z"
+              "WhenOpened": "2025-06-26T12:43:49.97Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "FormInvoicePrint.cs [Design]",
               "DocumentMoniker": "F:\\Github Projects\\JonotarHaatBazaarSolution\\JonotarHaatBazaarProject\\GUI\\FormInvoicePrint.cs",
               "RelativeDocumentMoniker": "JonotarHaatBazaarProject\\GUI\\FormInvoicePrint.cs",
               "ToolTip": "F:\\Github Projects\\JonotarHaatBazaarSolution\\JonotarHaatBazaarProject\\GUI\\FormInvoicePrint.cs [Design]",
               "RelativeToolTip": "JonotarHaatBazaarProject\\GUI\\FormInvoicePrint.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T12:43:45.863Z"
+              "WhenOpened": "2025-06-26T12:43:45.863Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "FormEmployee.cs [Design]",
               "DocumentMoniker": "F:\\Github Projects\\JonotarHaatBazaarSolution\\JonotarHaatBazaarProject\\GUI\\FormEmployee.cs",
               "RelativeDocumentMoniker": "JonotarHaatBazaarProject\\GUI\\FormEmployee.cs",
               "ToolTip": "F:\\Github Projects\\JonotarHaatBazaarSolution\\JonotarHaatBazaarProject\\GUI\\FormEmployee.cs [Design]",
               "RelativeToolTip": "JonotarHaatBazaarProject\\GUI\\FormEmployee.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T12:43:39.079Z"
+              "WhenOpened": "2025-06-26T12:43:39.079Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "FormAddSale.cs",
               "DocumentMoniker": "F:\\Github Projects\\JonotarHaatBazaarSolution\\JonotarHaatBazaarProject\\GUI\\FormAddSale.cs",
               "RelativeDocumentMoniker": "JonotarHaatBazaarProject\\GUI\\FormAddSale.cs",
@@ -143,23 +164,29 @@
               "RelativeToolTip": "JonotarHaatBazaarProject\\GUI\\FormAddSale.cs",
               "ViewState": "AgIAAP8BAAAAAAAAAAAswFkBAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T12:40:32.818Z"
+              "WhenOpened": "2025-06-26T12:40:32.818Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "DbAccess.cs",
               "DocumentMoniker": "F:\\Github Projects\\JonotarHaatBazaarSolution\\JonotarHaatBazaarProject\\DB\\DbAccess.cs",
               "RelativeDocumentMoniker": "JonotarHaatBazaarProject\\DB\\DbAccess.cs",
               "ToolTip": "F:\\Github Projects\\JonotarHaatBazaarSolution\\JonotarHaatBazaarProject\\DB\\DbAccess.cs",
               "RelativeToolTip": "JonotarHaatBazaarProject\\DB\\DbAccess.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAmwAMAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T11:11:01.893Z"
+              "WhenOpened": "2025-06-26T11:11:01.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "FormLogin.cs [Design]",
               "DocumentMoniker": "F:\\Github Projects\\JonotarHaatBazaarSolution\\JonotarHaatBazaarProject\\GUI\\FormLogin.cs",
               "RelativeDocumentMoniker": "JonotarHaatBazaarProject\\GUI\\FormLogin.cs",
@@ -171,27 +198,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormLogin.cs",
-              "DocumentMoniker": "F:\\Github Projects\\JonotarHaatBazaarSolution\\JonotarHaatBazaarProject\\GUI\\FormLogin.cs",
-              "RelativeDocumentMoniker": "JonotarHaatBazaarProject\\GUI\\FormLogin.cs",
-              "ToolTip": "F:\\Github Projects\\JonotarHaatBazaarSolution\\JonotarHaatBazaarProject\\GUI\\FormLogin.cs",
-              "RelativeToolTip": "JonotarHaatBazaarProject\\GUI\\FormLogin.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T11:12:38.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "UserControlAdmin.cs [Design]",
               "DocumentMoniker": "F:\\Github Projects\\JonotarHaatBazaarSolution\\JonotarHaatBazaarProject\\GUI\\UserControlAdmin.cs",
               "RelativeDocumentMoniker": "JonotarHaatBazaarProject\\GUI\\UserControlAdmin.cs",
               "ToolTip": "F:\\Github Projects\\JonotarHaatBazaarSolution\\JonotarHaatBazaarProject\\GUI\\UserControlAdmin.cs [Design]",
               "RelativeToolTip": "JonotarHaatBazaarProject\\GUI\\UserControlAdmin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T12:44:21.523Z"
+              "WhenOpened": "2025-06-26T12:44:21.523Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -203,7 +218,8 @@
               "RelativeToolTip": "JonotarHaatBazaarProject\\GUI\\UserControlAdmin.cs",
               "ViewState": "AgIAAGEAAAAAAAAAAAAYwGUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T12:44:26.625Z"
+              "WhenOpened": "2025-06-26T12:44:26.625Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -214,7 +230,8 @@
               "ToolTip": "F:\\Github Projects\\JonotarHaatBazaarSolution\\JonotarHaatBazaarProject\\GUI\\FormAddSale.cs [Design]",
               "RelativeToolTip": "JonotarHaatBazaarProject\\GUI\\FormAddSale.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T12:40:11.711Z"
+              "WhenOpened": "2025-06-26T12:40:11.711Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -225,7 +242,8 @@
               "ToolTip": "F:\\Github Projects\\JonotarHaatBazaarSolution\\JonotarHaatBazaarProject\\GUI\\FormAddUser.cs [Design]",
               "RelativeToolTip": "JonotarHaatBazaarProject\\GUI\\FormAddUser.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T11:12:53.051Z"
+              "WhenOpened": "2025-06-26T11:12:53.051Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -236,7 +254,8 @@
               "ToolTip": "F:\\Github Projects\\JonotarHaatBazaarSolution\\JonotarHaatBazaarProject\\GUI\\FormAdmin.cs [Design]",
               "RelativeToolTip": "JonotarHaatBazaarProject\\GUI\\FormAdmin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T11:12:52.162Z"
+              "WhenOpened": "2025-06-26T11:12:52.162Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -247,7 +266,8 @@
               "ToolTip": "F:\\Github Projects\\JonotarHaatBazaarSolution\\JonotarHaatBazaarProject\\GUI\\FormAddProduct.cs [Design]",
               "RelativeToolTip": "JonotarHaatBazaarProject\\GUI\\FormAddProduct.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T10:28:26.511Z"
+              "WhenOpened": "2025-06-26T10:28:26.511Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -258,7 +278,8 @@
               "ToolTip": "F:\\Github Projects\\JonotarHaatBazaarSolution\\JonotarHaatBazaarProject\\GUI\\FormEditUser.cs [Design]",
               "RelativeToolTip": "JonotarHaatBazaarProject\\GUI\\FormEditUser.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T11:12:50.648Z"
+              "WhenOpened": "2025-06-26T11:12:50.648Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -269,7 +290,8 @@
               "ToolTip": "F:\\Github Projects\\JonotarHaatBazaarSolution\\JonotarHaatBazaarProject\\GUI\\FormAddCustomer.cs [Design]",
               "RelativeToolTip": "JonotarHaatBazaarProject\\GUI\\FormAddCustomer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T11:12:55.355Z"
+              "WhenOpened": "2025-06-26T11:12:55.355Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -281,7 +303,8 @@
               "RelativeToolTip": "JonotarHaatBazaarProject\\GUI\\FormAdmin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T11:46:13.32Z"
+              "WhenOpened": "2025-06-26T11:46:13.32Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -293,7 +316,8 @@
               "RelativeToolTip": "JonotarHaatBazaarProject\\GUI\\FormAddUser.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAA3wCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T11:20:14.306Z"
+              "WhenOpened": "2025-06-26T11:20:14.306Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -305,7 +329,8 @@
               "RelativeToolTip": "JonotarHaatBazaarProject\\GUI\\FormEditUser.cs",
               "ViewState": "AgIAAHkBAAAAAAAAAAAUwJ8BAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T11:13:06.932Z"
+              "WhenOpened": "2025-06-26T11:13:06.932Z",
+              "EditorCaption": ""
             }
           ]
         }

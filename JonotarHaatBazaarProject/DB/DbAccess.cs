@@ -28,9 +28,7 @@ namespace JonotarHaatBazaarProject.DB
         {
             try
             {
-                this.Sqlcon = new SqlConnection(@"Data Source=UNKNOWN\DB;Initial Catalog=DB;User ID=sa;Password=Iamac0der;Encrypt=False");
-                //this.Sqlcon = new SqlConnection(@"Data Source=DESKTOP\DB;Initial Catalog=JonotarHaatBazaar;User ID=sa;Password=sa;Encrypt=False");
-                //this.Sqlcon = new SqlConnection(@"Data Source=DESKTOP-41QHCLF\DB;Initial Catalog=JonotarHaatBazaar;Persist Security Info=True;User ID=sa;Password=Aburajin@1;Encrypt=False");
+                this.Sqlcon = new SqlConnection(@"Data Source=unknown\SQLEXPRESS;Initial Catalog=JonotarHaatBazaarDB;Integrated Security=True;Encrypt=False");
                 Sqlcon.Open();
             }
             catch (Exception ex)
@@ -128,3 +126,4 @@ namespace JonotarHaatBazaarProject.DB
         }
     }
 }
+
