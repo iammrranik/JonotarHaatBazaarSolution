@@ -60,11 +60,6 @@
 ├── JonotarHaatBazaarSolution.sln            # Visual Studio Solution File
 ├── README.md                                # Root Project Readme
 ├── Project Report on Jonotar Haat Bazaar.pdf# Comprehensive Project Report Documentation
-├── other Readme/                            # Reference documentation templates
-│   ├── README1.md
-│   ├── README2.md
-│   ├── README3.md
-│   └── README4.md
 └── JonotarHaatBazaarProject/                # C# Windows Forms Project Source
     ├── JonotarHaatBazaarProject.csproj      # MSBuild C# Project Configuration
     ├── Program.cs                           # Main Application Entry Point
